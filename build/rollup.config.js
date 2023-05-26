@@ -2,7 +2,7 @@ import vue from 'rollup-plugin-vue'
 import css from 'rollup-plugin-css-only'
 import typescript from 'rollup-plugin-typescript2'
 import { nodeResolve } from '@rollup/plugin-node-resolve'
-import { name } from '../package.json'
+import { name } from './../package.json'
 console.log('name', name)
 const file = type => `dist/${name}.${type}.js`
 const overrides = {

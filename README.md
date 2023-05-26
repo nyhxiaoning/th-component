@@ -1,6 +1,12 @@
 ## vueplugin
 
-## vue3 开发组件库汇总。
+
+## 1.npm工具包开发框架汇总
+
+[npmRollupLibStandrad工具包](https://gitee.com/front-end-tool-development/npmRollupLibStandrad)
+
+
+## 2.vue3 开发组件库汇总。
 
 ## 特别说明
 
@@ -78,6 +84,24 @@ createApp(App)
 
 
 
+## 使用分支test-npm-branch来测试这个vue组件内容
+分支：test-npm-branch 
+
+## 项目中引入vite的脚手架配置。
+
+~~~
+---第一步：安装npm包
+    "vite": "^4.3.8",
+    "vue": "^3.0.0",
+    "vue-jest": "^5.0.0-0",
+    "vue-tsc": "^1.6.5"
+
+
+---第二步：
+将相关的内容分支进入相关
+
+
+~~~
 
 
 
