@@ -1,6 +1,12 @@
 ## vueplugin
 
-## vue3 开发组件库汇总。
+
+## 1.npm工具包开发框架汇总
+
+[npmRollupLibStandrad工具包](https://gitee.com/front-end-tool-development/npmRollupLibStandrad)
+
+
+## 2.vue3 开发组件库汇总。
 
 ## 特别说明
 
@@ -76,6 +82,10 @@ createApp(App)
 
 ~~~
 
+
+
+## 使用分支test-npm-branch来测试这个vue组件内容
+分支：test-npm-branch 
 
 
 
