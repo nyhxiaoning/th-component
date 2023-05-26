@@ -59,6 +59,10 @@
 项目根路径下面进行npm link package-name
 比如这里package-name是th-bricks-demo
 那么给当前的记录
+可以看到已经渲染出了组件
+坑：如果出现可以打印thBricks无法使用的情况，可以重启电脑试试。
+
+
 
 - 第三步
 项目中使用
@@ -106,6 +110,10 @@ createApp(App)
 
 
 
+## 注意多次切换node版本乱掉的解决方案
+- 删除yarn.lock和package-lock.json
+- 删除node_modules
+- 设置淘宝镜像重新安装。
 
 
 
